@@ -1,1 +1,1 @@
-# Bipedal-Robot-Locomotion
+# Bipedal Robot Locomotion
